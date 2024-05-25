@@ -1,0 +1,27 @@
+{
+  "name": "fb-video-converter-api",
+  "version": "1.0.0",
+  "description": "fb video converter api by hackmesenpai",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "cheerio": "^1.0.0-rc.12",
+    "axios": "^1.7.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lester51/FB-Video-Converter-API.git"
+  },
+  "keywords": [
+    "fb-video-converter"
+  ],
+  "author": "HackMeSenpai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lester51/FB-Video-Converter-API/issues"
+  },
+  "homepage": "https://github.com/lester51/FB-Video-Converter-API#readme"
+}
